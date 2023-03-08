@@ -1,12 +1,8 @@
 # axios-mock-adapter-path-params
 
-Forked from [ctimmerm's](https://github.com/ctimmerm) package [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) with [kierate's](https://github.com/kierate) [pull request](https://github.com/ctimmerm/axios-mock-adapter/pull/205) merged into it.
-
-[![Build Status](https://travis-ci.org/snrn-Pontus/axios-mock-adapter.svg?branch=master)](https://travis-ci.org/snrn-Pontus/axios-mock-adapter)
-[![dependencies Status](https://david-dm.org/snrn-Pontus/axios-mock-adapter/status.svg)](https://david-dm.org/snrn-Pontus/axios-mock-adapter)
-[![devDependency Status](https://david-dm.org/snrn-Pontus/axios-mock-adapter/dev-status.svg)](https://david-dm.org/snrn-Pontus/axios-mock-adapter#info=devDependencies)
-
 Axios adapter that allows to easily mock requests
+
+Forked from [snrn-Pontus](https://github.com/snrn-Pontus) package [axios-mock-adapter-path-params](https://github.com/snrn-Pontus/axios-mock-adapter). This fork included [kierate's](https://github.com/kierate) [pull request](https://github.com/ctimmerm/axios-mock-adapter/pull/205) but has not been updated for years since then.
 
 ## Installation
 
