@@ -21,7 +21,7 @@
   "types": "types",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snrn-Pontus/axios-mock-adapter.git"
+    "url": "https://github.com/erik-itland/axios-mock-adapter-path-params"
   },
   "keywords": [
     "axios",
@@ -31,12 +31,12 @@
     "stub",
     "adapter"
   ],
-  "author": "SNRN",
+  "author": "Erik Itland",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/snrn-Pontus/axios-mock-adapter/issues"
+    "url": "https://github.com/erik-itland/axios-mock-adapter-path-params/issues"
   },
-  "homepage": "https://github.com/snrn-Pontus/axios-mock-adapter#readme",
+  "homepage": "https://github.com/erik-itland/axios-mock-adapter-path-params#readme",
   "peerDependencies": {
     "axios": ">= 0.9.0"
   },
@@ -69,5 +69,9 @@
       "path": "./dist/axios-mock-adapter.min.js",
       "maxSize": "3.0 kB"
     }
-  ]
+  ],
+  "volta": {
+    "node": "18.15.0",
+    "npm": "9.5.0"
+  }
 }
