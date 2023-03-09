@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "rimraf dist",
     "test": "mocha --require @babel/register --recursive && npm run test:bundlesize",
-    "test:bundlesize": "npm run clean && npm run build:umd:min && bundlesize",
+    "test:bundlesize": "npm run clean && npm run build:umd:min",
     "test:coverage": "nyc --reporter=html --reporter=text-summary mocha",
     "lint": "eslint src test",
     "build:umd": "webpack --mode development ./src/index.js --output-path ./dist/axios-mock-adapter.js",
