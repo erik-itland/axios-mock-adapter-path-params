@@ -1,7 +1,7 @@
 const BundleAnalyzerPlugin = require("webpack-bundle-analyzer")
   .BundleAnalyzerPlugin;
 
-var config = {
+module.exports = {
   output: {
     library: "AxiosMockAdapter",
     libraryTarget: "umd",
@@ -12,4 +12,3 @@ var config = {
   // plugins: [new BundleAnalyzerPlugin()],
 };
 
-module.exports = config;
