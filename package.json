@@ -49,7 +49,7 @@
     "axios": "^0.27.2",
     "bundlesize2": "^0.0.31",
     "chai": "^4.3.7",
-    "eslint": "^7.32.0",
+    "eslint": "^8.36.0",
     "eslint-plugin-prettier": "^3.4.1",
     "mocha": "^10.2.0",
     "nyc": "^15.1.0",
